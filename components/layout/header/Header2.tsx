@@ -16,7 +16,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 							<div className="container py-3 px-4">
 								<Link className="navbar-brand d-flex main-logo align-items-center" href="/index-2">
 									<img src="assets/imgs/home-page-2/template/favicon.svg" alt="zelio" />
-									<span className="fs-4 ms-2">James.dev</span>
+									<span className="fs-4 ms-2">Sameer Kumar Maurya</span>
 								</Link>
 								<div className="d-none d-lg-flex">
 									<div className="collapse navbar-collapse" id="navbarSupportedContent">
@@ -44,18 +44,20 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 								</div>
 								<div className="navbar-social d-flex align-items-center pe-5 pe-lg-0 me-5 me-lg-0">
 									<div className="d-md-flex d-none gap-3">
-										<Link href="/http://facebook.com">
-											<i className="ri-facebook-circle-fill fs-18" />
-										</Link>
-										<Link href="/http://twitter.com">
-											<i className="ri-twitter-x-fill fs-18" />
-										</Link>
-										<Link href="/http://linkedin.com">
+										<Link href="https://www.linkedin.com/in/sameer-kumar-maurya/">
 											<i className="ri-linkedin-fill fs-18" />
 										</Link>
-										<Link href="/http://github.com">
+										<Link href="http://github.com/SAMEER563">
 											<i className="ri-github-fill fs-18" />
 										</Link>
+										<Link href="https://www.youtube.com/@JavascriptTrivia">
+											<i className="ri-youtube-fill fs-18" />
+										</Link>
+										<Link href="http://medium.com/@shakyasam563">
+											<i className="ri-medium-fill fs-18" />
+										</Link>
+
+										
 									</div>
 									<div className="burger-icon burger-icon-white border rounded-3" onClick={handleMobileMenu}>
 										<span className="burger-icon-top" />

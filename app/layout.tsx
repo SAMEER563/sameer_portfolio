@@ -28,8 +28,8 @@ const dmMono = DM_Mono({
 })
 
 export const metadata: Metadata = {
-	title: "Zelio - Personal Portfolio Template",
-	description: "Zelio - Personal Portfolio Template",
+	title: "Sameer Kumar Maurya - Personal Portfolio Website ",
+	description: "Sameer Kumar Maurya - Personal Portfolio Website showcasing projects, skills, and contact information.",
 }
 
 export default function RootLayout({

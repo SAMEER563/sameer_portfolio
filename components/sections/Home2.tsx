@@ -13,7 +13,7 @@ export default function Home2() {
 							<div className="row align-items-end py-60">
 								<div className="col-lg-5 ps-lg-5 text-lg-start text-center">
 									<div className="position-relative mb-lg-0 mb-5">
-										<img src="assets/imgs/pro.jpg" alt="sameer" />
+										<img src="assets/imgs/image.png" alt="sameer" />
 										<div className="position-absolute end-0 top-100 translate-middle-y icon-decorate">
 											<img src="assets/imgs/home-page-2/hero-1/icon.svg" alt="sameer" />
 										</div>

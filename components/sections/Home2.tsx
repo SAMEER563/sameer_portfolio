@@ -71,7 +71,7 @@ export default function Home2() {
 										</div>
 										<Link href="assets/resume.pdf" className="btn me-2 text-300 ps-0 mt-4" target="_blank">
 											<i className="ri-download-line text-primary-2" />
-											[ Download my CV ]
+											[ Download My CV ]
 										</Link>
 									</div>
 								</div>

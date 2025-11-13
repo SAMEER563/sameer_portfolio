@@ -49,9 +49,9 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">Phone Number</span>
-									<h6 className="mb-0">+1-234-567-8901</h6>
+									<h6 className="mb-0">+91- 9839908578</h6>
 								</div>
-								<a href="tel:+1-234-567-8901" className="position-absolute top-0 start-0 w-100 h-100" />
+								<a href="tel:+919839908578" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
 							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">
@@ -61,9 +61,9 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">Email</span>
-									<h6 className="mb-0">contact@william.design</h6>
+									<h6 className="mb-0">sameermaurya482@gmail.com</h6>
 								</div>
-								<a href="mailto:someone@example.com" className="position-absolute top-0 start-0 w-100 h-100" />
+								<a href="mailto:sameermaurya482@gmail.com" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
 							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">
@@ -72,10 +72,10 @@ export default function Contact2() {
 									</div>
 								</div>
 								<div className="ps-3 h-100">
-									<span className="text-400 fs-6">Skype</span>
-									<h6 className="mb-0">WilliamDesignUX</h6>
+									<span className="text-400 fs-6">Website</span>
+									<h6 className="mb-0">sameerkumarmaurya.vercel.app</h6>
 								</div>
-								<a href="skype:SKYPENAME?add" className="position-absolute top-0 start-0 w-100 h-100" />
+								<a href="https://sameerkumarmaurya.vercel.app" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
 							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">
@@ -85,9 +85,9 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">Address</span>
-									<h6 className="mb-0">0811 Erdman Prairie, Joaville CA</h6>
+									<h6 className="mb-0">Hyderabad</h6>
 								</div>
-								<a href="https://maps.google.com/maps?q=1st+avenue,New+York" className="position-absolute top-0 start-0 w-100 h-100" />
+								<a href="https://maps.google.com/maps?q=Hyderabad" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
 						</div>
 					</div>

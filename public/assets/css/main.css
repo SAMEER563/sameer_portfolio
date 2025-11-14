@@ -1116,7 +1116,7 @@ img {
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   background: linear-gradient(var(--tc-neutral-1000), var(--tc-neutral-1000)) padding-box, var(--tc-linear-1) border-box;
   border: 1px solid transparent;
-  color: var( --tc-neutral-1000 !important);
+  color: var(--tc-neutral-1000) !important;
 }
 
 .btn-outline-secondary-3 {
@@ -3889,9 +3889,7 @@ textarea.form-control {
   transform: rotate(45deg);
 }
 
-.button-project .ellipse {
-  background-image: url(../imgs/projects/projects-1/elipse.png);
-}
+
 
 .fillter-project {
   background-repeat: no-repeat;

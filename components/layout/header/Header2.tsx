@@ -25,16 +25,16 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 												<Link className="nav-link active" href="#about">About me</Link>
 											</li>
 											<li className="nav-item">
-												<Link className="nav-link" href="#resume">Resume</Link>
+												<Link className="nav-link" href="#experience">Experiences</Link>
 											</li>
 											<li className="nav-item">
 												<Link className="nav-link" href="#services">Services</Link>
 											</li>
 											<li className="nav-item">
-												<Link className="nav-link" href="#portfolio">Portfolio</Link>
+												<Link className="nav-link" href="#skills">Skills</Link>
 											</li>
 											<li className="nav-item">
-												<Link className="nav-link" href="#blog">Blog</Link>
+												<Link className="nav-link" href="#projects">Projects</Link>
 											</li>
 											<li className="nav-item">
 												<Link className="nav-link" href="#contact">Contact</Link>

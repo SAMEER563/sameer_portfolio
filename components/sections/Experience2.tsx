@@ -46,7 +46,7 @@ export default function Experience2() {
                       
                           <div className="d-flex flex-column ms-2">
                             <h5 className="mb-1">Ebani Tech Pvt. Ltd</h5>
-                            <span className="text-300">Apr 2025 – Present</span>
+                            <span className="text-300">Apr 2025 – Sep 2025</span>
                           </div>
                         </div>
                       </Link>

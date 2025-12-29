@@ -27,10 +27,77 @@ const dmMono = DM_Mono({
 	display: 'swap',
 })
 
+
+
 export const metadata: Metadata = {
-	title: "Sameer Kumar Maurya - Personal Portfolio Website ",
-	description: "Sameer Kumar Maurya - Personal Portfolio Website showcasing projects, skills, and contact information.",
+  title: {
+    default: "Sameer Kumar Maurya | Full Stack Developer Portfolio",
+    template: "%s | Sameer Kumar Maurya",
+  },
+
+  description:
+    "Sameer Kumar Maurya is a Full Stack Developer showcasing projects, skills, experience, and contact information. Explore modern web development work using React, Next.js, and more.",
+
+  keywords: [
+    "Sameer Kumar Maurya",
+    "Sameer Maurya",
+    "Full Stack Developer",
+    "Web Developer Portfolio",
+    "Next.js Developer",
+    "React Developer",
+    "JavaScript Developer",
+    "Frontend Developer",
+    "Backend Developer",
+    "Personal Portfolio Website",
+  ],
+
+  authors: [{ name: "Sameer Kumar Maurya" }],
+  creator: "Sameer Kumar Maurya",
+
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-snippet": -1,
+      "max-image-preview": "large",
+      "max-video-preview": -1,
+    },
+  },
+
+  openGraph: {
+    title: "Sameer Kumar Maurya | Full Stack Developer Portfolio",
+    description:
+      "Explore projects, skills, and experience of Sameer Kumar Maurya, a Full Stack Developer specializing in modern web technologies.",
+    url: "https://sameerkumarmaurya.vercel.app/",
+    siteName: "Sameer Kumar Maurya Portfolio",
+    images: [
+      {
+        url: "https://sameerkumarmaurya.vercel.app/assets/imgs/image.png",
+        width: 1200,
+        height: 630,
+        alt: "Sameer Kumar Maurya Portfolio",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Sameer Kumar Maurya | Full Stack Developer",
+    description:
+      "Personal portfolio of Sameer Kumar Maurya – projects, skills, and contact details.",
+    images: ["https://sameerkumarmaurya.vercel.app/assets/imgs/image.png"],
+    creator: "@your_twitter_handle",
+  },
+
+  alternates: {
+    canonical: "https://sameerkumarmaurya.vercel.app",
+  },
 }
+
 
 export default function RootLayout({
 	children,

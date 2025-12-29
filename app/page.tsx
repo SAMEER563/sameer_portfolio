@@ -13,7 +13,7 @@ import Contact2 from "@/components/sections/Contact2"
 export const metadata: Metadata = {
   title: "Sameer Kumar Maurya | Full Stack Developer Portfolio",
   description:
-    "Welcome to the personal portfolio of Sameer Kumar Maurya. Explore my projects, skills, experience, education, and services as a Full Stack Web Developer specializing in React and Next.js.",
+    "Welcome to the portfolio of Sameer Kumar Maurya. Discover my projects, skills, experience, education, and services as a Full Stack Developer in React & Next.js.",
 
   keywords: [
     "Sameer Kumar Maurya",
